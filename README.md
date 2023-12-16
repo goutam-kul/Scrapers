@@ -7,8 +7,8 @@ This collection includes python scripts in .ipynb format to extract data from va
 - [Introduction](#introduction)
 - [Web Scrapers](#web-scrapers)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Introduction
 
@@ -24,4 +24,7 @@ To use a scraper follow this general steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/goutam-kul/Scrapers.git
-   
+
+
+
+
