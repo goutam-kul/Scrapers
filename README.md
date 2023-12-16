@@ -15,6 +15,9 @@ This collection includes python scripts in .ipynb format to extract data from va
 Web scraping is a powerful technique for extracting data from websites. In this repository, you'll find a collection of web scrapers targeting different popular sites. These scrapers are implemented in Python, utilizing libraries such as BeautifulSoup and Scrapy.
 
 ## Web Scrapers
+1. **YouTube Channel Scraper**
+   - Description: Scrapes data from a YouTube channel.
+   - File: youtube_channel-scraper.ipynb
 
 To use a scraper follow this general steps:
 
